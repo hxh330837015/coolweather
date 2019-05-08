@@ -1,0 +1,35 @@
+[33mcommit 76f8c84ede06bbf5bc1287034f8220c806982a58[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: han <330837015@qq.com>
+Date:   Tue May 7 14:49:42 2019 +0800
+
+    新增切换城市和手动更新天气的功能
+
+[33mcommit 216e67a8548920fba44e74072702baa48a26fe22[m
+Author: han <330837015@qq.com>
+Date:   Tue May 7 13:47:35 2019 +0800
+
+    加入显示天气信息的功能。
+
+[33mcommit 861dc822ecc0608127d20ab57b5e75b1312e2758[m
+Author: han <330837015@qq.com>
+Date:   Mon May 6 17:28:23 2019 +0800
+
+    完成遍历省市县三级列表的功能
+
+[33mcommit ea85adf0e448865c1f258a2230e1a0926fd27383[m
+Author: han <330837015@qq.com>
+Date:   Mon May 6 13:57:44 2019 +0800
+
+    加入创建数据库和表的各项配置
+
+[33mcommit a30d2d143a5c9807bf8073f05bc4488b7ab6c025[m
+Author: han <330837015@qq.com>
+Date:   Mon May 6 11:42:09 2019 +0800
+
+    First commit.
+
+[33mcommit 60fa7316bf3eba1d022c4a3c6d8874616365b136[m
+Author: hxh330837015 <50310510+hxh330837015@users.noreply.github.com>
+Date:   Mon May 6 11:16:41 2019 +0800
+
+    Initial commit
